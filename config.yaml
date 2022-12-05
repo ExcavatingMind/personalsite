@@ -1,4 +1,5 @@
 theme: "kaslaanka"
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://magnificent-parfait-c3f885.netlify.app/
+languageCode: en-uk
+title: personal site
+
