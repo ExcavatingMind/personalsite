@@ -27,6 +27,9 @@ menu:
     - name: Subscribe
       url: /index.xml
       weight: 3
+    - name: cv
+      url: /cv
+      weight: 4
 
 # You can add languages!
 # do not expect it to work out of the box
