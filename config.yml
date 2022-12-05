@@ -13,9 +13,6 @@ pygmentscodefences: true
 markup:
   goldmark:
     renderer:
-      unsafe: true
-
-# Links of the navbar
 menu:
   primary:
     - name: Home
